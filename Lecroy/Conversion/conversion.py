@@ -16,8 +16,8 @@ initial = time.time()
 
 RawDataPath = ""
 RawDataLocalCopyPath = ""
-OutputFilePath = "/home/daq/SensorBeam2023/LecroyScope/RecoData/ConversionRECO/"
-eosPath = "root://cmseos.fnal.gov//store/group/cmstestbeam/SensorBeam2023/LecroyScope/RecoData/ConversionRECO/"
+OutputFilePath = "/home/daq/2024_05_FNAL_ETL/LecroyScope/RecoData/ConversionRECO/"
+eosPath = "root://cmseos.fnal.gov//store/group/cmstestbeam/2024_05_FNAL_ETL/LecroyScope/RecoData/ConversionRECO/"
 
 LocalMode=True
 CopyToEOS=True
